@@ -1,6 +1,6 @@
 {
-  "name": "bigtext",
-  "title": "BigText",
+  "name": "FitText",
+  "title": "FitText",
   "version": "1.0.1",
   "main": "./fittext.js"
 }
